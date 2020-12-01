@@ -15,6 +15,6 @@ package com.bjpowernode.git.test;
  */
 public class Test {
     public static void main(String[] args) {
-        System.out.println("发生肾么事了");
+        System.out.println("不讲武德!");
     }
 }
